@@ -5,7 +5,9 @@ questions about a PDF containing information about Python built-in
 functions. It combines document loading, text chunking, Hugging Face
 embeddings, Chroma vector search, a Groq-hosted language model, and a
 Gradio chat interface.
+
 🚀 Overview
+
 This project lets users ask questions about the contents of a PDF and
 receive answers based on retrieved document passages.
 The notebook downloads the Python Built-In Functions PDF, extracts its
