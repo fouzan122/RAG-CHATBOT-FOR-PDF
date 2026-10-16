@@ -232,12 +232,11 @@ Generative AI • Retrieval-Augmented Generation (RAG) • Python •
 LangChain • Groq API • Hugging Face Embeddings • Chroma DB • Vector
 Search • PDF Processing • Semantic Retrieval • Question Answering •
 Gradio
+
 👨‍💻 Author
+
 Patan Fouzan Khan
 B.Tech --- Computer Science and Engineering
-- GitHub: fouzan122
-- LinkedIn:
-  fouzan-khan-7ba1112a7
 Focus Areas: Artificial Intelligence | Machine Learning |
 Generative AI | LLM Applications | Backend Development
 ⭐ If you find this project useful, consider giving the repository a
